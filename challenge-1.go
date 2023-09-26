@@ -19,3 +19,9 @@ var routes = [][2]string{
 
 // Challenge 1.1: Represent the graph
 // Challenge 1.2: Use a search method to figure out if there exists a route between PHX and BKK
+
+// Questions to consider:
+// -- What is the best way to represent this graph?
+// -- How do we implement the above?
+// -- What searching algorithm should we use?
+// -- Once done, was this the most efficient way to search for this route?
