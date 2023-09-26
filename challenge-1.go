@@ -18,4 +18,4 @@ var routes = [][2]string{
 }
 
 // Challenge 1.1: Represent the graph
-// Challenge 1.2: Use a search mthod to figure out if there exists a route between PHX and BKK
+// Challenge 1.2: Use a search method to figure out if there exists a route between PHX and BKK
